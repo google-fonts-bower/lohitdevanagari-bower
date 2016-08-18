@@ -1,0 +1,17 @@
+{
+    "name": "lohitdevanagari-googlefont",
+    "license": null,
+    "authors": [
+        null
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/lohitdevanagari-bower.git"
+    },
+    "description": " font",
+    "keywords": [
+        "font",
+        null
+    ]
+}
